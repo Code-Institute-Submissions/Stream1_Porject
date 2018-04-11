@@ -1,0 +1,21 @@
+body {
+    background-color: #565656;
+}
+
+.summary {
+    border-radius: 20px;
+    padding: 50px;
+    font-size: 3rem;
+}
+.text{ 
+  padding: 40px;
+  margin-left: 50px;
+  font-size: 2em;
+  color: black;
+  font-family: 'Playfair Display', cursive;
+}
+.container {
+    background: #c09f80;
+    margin: 50px auto;
+    border-radius: 10px;
+}
