@@ -13,7 +13,7 @@ This site has a separate page for each game that details the overall premise of 
  
 ### How does it work
  
-This site uses simple HTML and CSS. The site is also styled with **Bootstrap**. The quiz has been created using **Javascript** to provide a total score and send an alert message when completed. Github was used to deploy this web page. **Javascript** was also used for the automatic typing on the welcome page. The site can be viewed [HERE]()
+This site uses simple HTML and CSS. The site is also styled with **Bootstrap**. The quiz has been created using **Javascript** to provide a total score and send an alert message when completed. Github was used to deploy this web page. **Javascript** was also used for the automatic typing on the welcome page. The site can be viewed [HERE](https://rmschrader1994.github.io/Stream1_Porject/)
 
 ## Features
  
