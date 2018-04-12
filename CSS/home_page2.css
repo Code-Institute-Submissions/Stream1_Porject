@@ -1,19 +1,10 @@
-
-
-    /*Logos Design*/
+/*Logos Design*/
     .sierra {
         display: block;
         margin-left: auto;
         margin-right: auto;
         height: 150px;
         margin-top: 30px;
-    }
-    .talisman {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        background-color: rgba(255, 255, 230, .75);
-        border-radius: 20px;
     }
     .pinkerton {
         width: 50%;
@@ -24,98 +15,93 @@
         margin-top: 30px;
     }
 /*Banner*/
-header {
-    height: 200px;
-    width:100%;
-    background-size: cover;
-}
-.logo {
-    height: 200px;
-    width:100%;
-}
-
+    header {
+        height: 200px;
+        width:100%;
+        background-size: cover;
+    }
+    .logo {
+        height: 200px;
+        width:100%;
+    }
 /*NavBar*/
-ul li a {
-    color: white;
-    margin: 15px;
-    font-size: 20px;
-}
-ul li a:hover {
-    background-color: white;
-    color: black;
-}
-
+    ul li a {
+        color: white;
+        margin: 15px;
+        font-size: 20px;
+    }
+    ul li a:hover {
+        background-color: white;
+        color: black;
+    }
 /*Game Sections*/
 
-.menu_pic_left {
-    width: 50%;
-    height: 150px;
-    float: right;
-    margin-right: 5px;
-    padding: 15px;
-}
-.menu_pic_right {
-    width: 50%;
-    height: 150px;
-    float: left;
-    margin-right: 5px;
-    padding: 15px;
-}
-.menu_pic_right_talisman {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    .menu_pic_left {
+        width: 50%;
+        height: 150px;
+        float: right;
+        margin-right: 5px;
+        padding: 15px;
+    }
+    .menu_pic_right {
+        width: 50%;
+        height: 150px;
+        float: left;
+        margin-right: 5px;
+        padding: 15px;
+    }
+    .menu_pic_right_talisman {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .game {
+        background-color: #c09f80;
+        border-radius: 10px;
+        font-size: 20px;
+        width: 100%;
+        overflow:scroll;
+        height: 450px;
+        padding: 20px;
+        margin: 15px;
+    }
+    p{
+        color: #565656;
+        font-family: 'Cuprum', sans-serif;
+    }
     
-}
-.game {
-    background-color: #c09f80;
-    border-radius: 10px;
-    font-size: 20px;
-    width: 100%;
-    overflow:scroll;
-    height: 450px;
-    padding: 20px;
-    margin: 15px;
-}
-p{
-    color: #565656;
-    font-family: 'Cuprum', sans-serif;
-}
-
-.page-header {
-    background-color: rgba(255, 255, 230, .8);
-    padding: 10px;
-    text-align: center;
-}
-
+    .page-header {
+        background-color: rgba(255, 255, 230, .8);
+        padding: 10px;
+        text-align: center;
+    }
 /*Read More Buttons*/
-
-.button span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-.button span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-.button:hover span {
-  padding-right: 25px;
-}
-
-.button:hover span:after {
-  opacity: 1;
-  right: 0;
-}
-.stainglass {
-    width: 100%;
-    border-radius: 100%;
-}
+    .button span {
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        transition: 0.5s;
+    }
+    
+    .button span:after {
+        content: '\00bb';
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        right: -20px;
+        transition: 0.5s;
+    }
+    
+    .button:hover span {
+        padding-right: 25px;
+    }
+    
+    .button:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+    .stainglass {
+        width: 100%;
+        border-radius: 100%;
+    }
 

@@ -5,7 +5,7 @@
  
 ### What is this website for?
  
-This is a fan site for those who have played the Gabriel Knight games and provides in depth details about each of the three games in the series. 
+This is a fan site for those who have played the Gabriel Knight games and provides in depth details and fun activities about each of the three games in the series. 
  
 ### What does it do?
  
@@ -24,12 +24,14 @@ This site uses simple HTML and CSS. The site is also styled with **Bootstrap**. 
 - Sliding, horizontal timeline of events
 - Pictures with changing opacity when hovered over (clicked on when using mobile)
 - Professional palette used throughout
+    - Changed from a color palatte designed for those who know the games
 - Quiz page for viewers to test their knowledge
     - Form for viewers to input their answers or check the correct box
     - Submit button so viewers can see how they scored on the quiz
 
 ### Features Left to Implement
 - Return correct answers after submitting quiz
+- Audio from welcome page to fully work on Safari
 
 ## Tech Used
 
@@ -40,6 +42,8 @@ This site uses simple HTML and CSS. The site is also styled with **Bootstrap**. 
     - We use **Bootstrap** to give our project a simple, responsive layout
 - [JQuery](https://jquery.com)
     - Use **JQuery** for boostrap and displaying modal
+- **FontAwesome**
+    - Fa fa icons used on Navbar
 
 ## Testing
 - All code used on the site has been tested to ensure everything is working as expected

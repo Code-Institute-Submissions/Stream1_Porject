@@ -8,11 +8,11 @@ body {
     font-size: 3rem;
 }
 .text{ 
-  padding: 40px;
-  margin-left: 50px;
-  font-size: 2em;
-  color: black;
-  font-family: 'Playfair Display', cursive;
+    padding: 40px;
+    margin-left: 50px;
+    font-size: 2em;
+    color: black;
+    font-family: 'Playfair Display', cursive;
 }
 .container {
     background: #c09f80;

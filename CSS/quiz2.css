@@ -1,41 +1,37 @@
- body {
-    background-color: rgb(215,206,199);
+    body {
+        background-color: rgb(215,206,199);
     }
 /*Banner*/
-header {
-    height: 200px;
-    width:100%;
-    background-size: cover;
-}
-.logo {
-    height: 200px;
-    width:100%;
-}
-
+    header {
+        height: 200px;
+        width:100%;
+        background-size: cover;
+    }
+    .logo {
+        height: 200px;
+        width:100%;
+    }
 /*NavBar*/
-ul li a {
-    color: white;
-    margin: 15px;
-    font-size: 20px;
-}
-ul li a:hover {
-    background-color: white;
-    color: black;
-}
-
-
-
-.page-header {
-    background-color: rgba(255, 255, 230, .8);
-    padding: 10px;
-    text-align: center;
-}
-form, .panel-body {
-    background-color: #c09f80;
-    color: #565656;
-    font-family: 'Cuprum', sans-serif;
-    font-size: 20px;
-}
+    ul li a {
+        color: white;
+        margin: 15px;
+        font-size: 20px;
+    }
+    ul li a:hover {
+        background-color: white;
+        color: black;
+    }
+    .page-header {
+        background-color: rgba(255, 255, 230, .8);
+        padding: 10px;
+        text-align: center;
+    }
+    form, .panel-body {
+        background-color: #c09f80;
+        color: #565656;
+        font-family: 'Cuprum', sans-serif;
+        font-size: 20px;
+    }
 
 
 
