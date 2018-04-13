@@ -18,11 +18,11 @@ This site uses simple HTML and CSS. The site is also styled with **Bootstrap**. 
 ## Features
  
 ### Existing Features
-- Welcome page with audio, automated typing, and redirect to home page
+- Welcome page with automated typing and redirect to home page
 - Home page with multiple links to each page.
   - Navbar to navigate to other pages
 - Sliding, horizontal timeline of events
-- Pictures with changing opacity when hovered over (clicked on when using mobile)
+- Pictures with changing opacity when hovered over (tapped on when using mobile)
 - Professional palette used throughout
     - Changed from a color palatte designed for those who know the games
 - Quiz page for viewers to test their knowledge
@@ -31,7 +31,6 @@ This site uses simple HTML and CSS. The site is also styled with **Bootstrap**. 
 
 ### Features Left to Implement
 - Return correct answers after submitting quiz
-- Audio from welcome page to fully work on Safari
 
 ## Tech Used
 
