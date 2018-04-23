@@ -32,6 +32,8 @@
         font-family: 'Cuprum', sans-serif;
         font-size: 20px;
     }
-
+    .col-sm-12 h2 {
+        color: rgb(118,50,63);
+    }
 
 
