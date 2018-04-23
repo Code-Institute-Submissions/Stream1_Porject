@@ -12,7 +12,7 @@ function check0(){
     if (document.forms["quiz1"]["question5"].value == "People's Republic of Benin") {
         score++;}
     document.getElementById("demo").innerHTML = score+"/5";
-    alert("You finished the Sins of the Father quiz, you should try the other quizzes!")
+    alert("You finished the Sins of the Father quiz, you should try the other quizzes!");
     
 }
 
@@ -50,7 +50,7 @@ function check1(){
    else {
       a4bool = false;
    }
-   if(a4bool == true) {
+   if(a4bool === true) {
       score++;
    }
     
@@ -92,9 +92,9 @@ function check2(){
    else {
       a4bool = false;
    }
-   if(a4bool == true) {
+   if(a4bool === true) {
       score++;
    }
     document.getElementById("demo3").innerHTML = score+"/5";
-    alert("You finished quiz the Blood of the Sacred, Blood of the Damned, you should try the other quizzes!")
+    alert("You finished quiz the Blood of the Sacred, Blood of the Damned, you should try the other quizzes!");
 }
