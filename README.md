@@ -1,11 +1,10 @@
-# project1
-# Gabriel Knight Website
+# Project1: Gabriel Knight Website
  
 ## Overview
  
 ### What is this website for?
  
-This is a fan site for those who have played the Gabriel Knight games and provides in depth details and fun activities about each of the three games in the series. 
+This is a fan site for those who have played the Gabriel Knight games and provides in depth details and fun activities about each of the three games in the series. The site could also function as an introduction to the Gbariel Knight games for new players.
  
 ### What does it do?
  
@@ -31,6 +30,7 @@ This site uses simple HTML and CSS. The site is also styled with **Bootstrap**. 
 
 ### Features Left to Implement
 - Return correct answers after submitting quiz
+
 
 ## Tech Used
 
@@ -73,3 +73,11 @@ Previously I did have a full line of commits for this project, but I recreated m
 
 ## Planning
 All wireframes and planning documents can be found in the stream1Project folder here in the repository. The comments page was replaced by the quiz page.
+
+### Difficulties
+
+## Color Palette
+Originally the site had a more colorful palette. The home page had a background image that can be found towards the bottom of the page now, the game pages all had different colors to match their respective games (Sins of the Father was purple, The Beast Withing was blue, and Blood of the Sacred Blood of the Damned was orange), and the quiz page had its own stylized background. After presenting the project during Careers Week I toned down the colors and kept them constant throughout the entire page, as to follow the helpful advice of Jim Cassidy.
+
+## Quiz
+When I first started this course I had no experience with **Javascript**. I based the code for the quizzes on the maths game we created during Stream 1 and extensive google searches. The radio buttons were the easiest to score, but I had also used text fields checkboxes. The text fields were the easier of the two, all I had to do was compare the entered value to a pre defined correct answer. The checkboxes were extremley challenging and took a couple weeks and extensive google searches to find the answer. It would have been easier to ask for help, but I wanted to find the answer myself and I did in the end. In the end I created 2 arrays. One contained the correct answers to the question and the other was empty. The later would be used to store the user's answers. If the arrays matched then the user would get the point.  
