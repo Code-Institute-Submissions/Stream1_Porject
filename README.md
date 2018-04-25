@@ -52,10 +52,7 @@ This site uses simple HTML and CSS. The site is also styled with **Bootstrap**. 
   - Mozilla Firefox
 - Site link sent to and tested on multiple machines on different continents
 
-## Contributing
- 
-
-## Credits
+# Contributing: Credits
 
 ### Media
 The photos used in this site were obtained from various locations over google and screenshots of the games
@@ -67,6 +64,8 @@ All game info and names created by Jane Jensen and games all produced by Sierra 
 - Timeline of events:
     - https://bootsnipp.com/snippets/a3BjR
 
+# Extra Info
+
 
 ## Git Commits
 Previously I did have a full line of commits for this project, but I recreated my site to look more professional. My full history of commits can be seen [HERE](https://github.com/RMSchrader1994/project1)
@@ -74,10 +73,10 @@ Previously I did have a full line of commits for this project, but I recreated m
 ## Planning
 All wireframes and planning documents can be found in the stream1Project folder here in the repository. The comments page was replaced by the quiz page.
 
-### Difficulties
+## Difficulties
 
-## Color Palette
+### Color Palette
 Originally the site had a more colorful palette. The home page had a background image that can be found towards the bottom of the page now, the game pages all had different colors to match their respective games (Sins of the Father was purple, The Beast Withing was blue, and Blood of the Sacred Blood of the Damned was orange), and the quiz page had its own stylized background. After presenting the project during Careers Week I toned down the colors and kept them constant throughout the entire page, as to follow the helpful advice of Jim Cassidy.
 
-## Quiz
+### Quiz
 When I first started this course I had no experience with **Javascript**. I based the code for the quizzes on the maths game we created during Stream 1 and extensive google searches. The radio buttons were the easiest to score, but I had also used text fields checkboxes. The text fields were the easier of the two, all I had to do was compare the entered value to a predefined correct answer. The checkboxes were extremely challenging and took a couple weeks and extensive google searches to find the answer. It would have been easier to ask for help, but I wanted to find the answer myself and I did in the end. In the end, I created 2 arrays. One contained the correct answers to the question and the other was empty. The later would be used to store the user's answers. If the arrays matched then the user would get the point.  
